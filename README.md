@@ -1,6 +1,6 @@
 # Review Rating Service API
 
-This API provides endpoints for managing product reviews, including operations such as creating, retrieving, updating, and deleting reviews, as well as retrieving reviews by product or user.
+This service offers user-friendly endpoints compliant with REST principles for creating, retrieving, updating, and deleting reviews, providing a comprehensive review rating service. Additionally, it supports fetching reviews based on products or users, facilitating access to specific review ratings tied to individual products or users.
 
 ## Installation
 
