@@ -87,7 +87,3 @@ Replace `YOUR_SERVER_IP` with your server's IP address.
   - Endpoint: `/reviews/<review_id>`
   - Method: `GET`
   - Description: Retrieve a single review by its ID.
-
-## Contributing
-
-If you wish to contribute to this project, feel free to open issues or submit pull requests.
